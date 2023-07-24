@@ -1,4 +1,3 @@
-# -*- coding: utf-8 -*-
 ##############################################################################
 #
 #    OpenEduCat Inc
@@ -24,6 +23,7 @@ from . import models
 from . import wizard
 
 from odoo import api, SUPERUSER_ID
+
 
 def _openeducat_post_init(cr, registry):
     env = api.Environment(cr, SUPERUSER_ID, {})

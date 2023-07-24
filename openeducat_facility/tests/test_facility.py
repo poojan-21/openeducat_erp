@@ -1,4 +1,3 @@
-# -*- coding: utf-8 -*-
 ###############################################################################
 #
 #    OpenEduCat Inc
@@ -28,7 +27,6 @@ class TestFacilityLine(TestFacilityCommon):
         super(TestFacilityLine, self).setUp()
 
     def test_case_facility_line(self):
-
         types = self.op_facility_line.create({
             'facility_id': self.env.ref
             ('openeducat_facility.op_facility_1').id,

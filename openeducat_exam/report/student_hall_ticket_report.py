@@ -1,4 +1,3 @@
-# -*- coding: utf-8 -*-
 ###############################################################################
 #
 #    OpenEduCat Inc
@@ -21,7 +20,7 @@
 
 import time
 
-from odoo import models, fields, api
+from odoo import api, fields, models
 
 
 class ReportTicket(models.AbstractModel):

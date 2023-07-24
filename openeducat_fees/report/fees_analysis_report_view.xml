@@ -15,7 +15,8 @@
                         </div>
                         <br></br>
                         <table class="table table-bordered">
-                            <thead class="text-center"  style="background-color:#eeeeee; font-size:14px; font-weight:600;">
+                            <thead class="text-center"
+                                   style="background-color:#eeeeee; font-size:14px; font-weight:600;">
                                 <th>Student Name</th>
                                 <th>Total Amount</th>
                                 <th>Total Invoiced</th>

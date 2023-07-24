@@ -1,4 +1,3 @@
-# -*- coding: utf-8 -*-
 ###############################################################################
 #
 #    OpenEduCat Inc
@@ -19,8 +18,9 @@
 #
 ###############################################################################
 
-from logging import info
 import time
+from logging import info
+
 from .test_library_common import TestLibraryCommon
 
 
@@ -116,8 +116,8 @@ class TestMediaQueue(TestLibraryCommon):
         mediaqueue = self.op_media_queue.create({
             'name': 'QUE001',
             'media_id': self.env.ref('openeducat_library.op_media_1').id,
-            'date_from':  time.strftime('%Y-%m-01'),
-            'date_to':  time.strftime('%Y-%m-01'),
+            'date_from': time.strftime('%Y-%m-01'),
+            'date_to': time.strftime('%Y-%m-01'),
         })
         info('  Details Of Library Media Queue:.....')
         for record in mediaqueue:
@@ -158,7 +158,7 @@ class TestLibraryCard(TestLibraryCommon):
             'number': 'LCB0000000018',
             'library_card_type_id':
                 self.env.ref('openeducat_library.op_library_card_type_1').id,
-            'issue_date':  time.strftime('%Y-%m-01'),
+            'issue_date': time.strftime('%Y-%m-01'),
             'type': 'student'
         })
         if not card:
@@ -188,7 +188,7 @@ class TestWizardIssue(TestLibraryCommon):
             'library_card_id':
                 self.env.ref('openeducat_library.op_library_card_type_1').id,
             'issued_date': time.strftime('%Y-%m-01'),
-            'return_date':  time.strftime('%Y-%m-01')
+            'return_date': time.strftime('%Y-%m-01')
         })
         wizard.do_issue()
         wizard._check_date()

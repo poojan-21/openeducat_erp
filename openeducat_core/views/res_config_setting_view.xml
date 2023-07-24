@@ -379,7 +379,8 @@
                                         <div class="o_setting_right_pane">
                                             <label for="module_openeducat_live_assignment"/>
                                             <div class="text-muted">
-                                                Faculties can use the live session to create, edit, and assign both team and individual assignments.
+                                                Faculties can use the live session to create, edit, and assign both team
+                                                and individual assignments.
                                             </div>
                                         </div>
                                     </div>
@@ -390,7 +391,8 @@
                                         <div class="o_setting_right_pane">
                                             <label for="module_openeducat_live_attendance"/>
                                             <div class="text-muted">
-                                                Present makes taking attendance fast, accurate and easy. Get a clear view of your entire class roster.
+                                                Present makes taking attendance fast, accurate and easy. Get a clear
+                                                view of your entire class roster.
                                             </div>
                                         </div>
                                     </div>
@@ -401,7 +403,8 @@
                                         <div class="o_setting_right_pane">
                                             <label for="module_openeducat_live_attentiveness"/>
                                             <div class="text-muted">
-                                                Participate in class discussion by sharing points of view, asking questions, and contributing to group projects.
+                                                Participate in class discussion by sharing points of view, asking
+                                                questions, and contributing to group projects.
                                             </div>
                                         </div>
                                     </div>
@@ -483,7 +486,8 @@
                                         <div class="o_setting_right_pane">
                                             <label for="module_openeducat_exam_enterprise"/>
                                             <div class="text-muted">
-                                                Schedule examination through various methods like CCE, CPA and much more with just a few clicks.
+                                                Schedule examination through various methods like CCE, CPA and much more
+                                                with just a few clicks.
                                             </div>
                                         </div>
                                         <div class="o_setting_left_pane">
@@ -569,11 +573,12 @@
                                             <field name="module_openeducat_fees_parent_bridge"/>
                                         </div>
                                         <div class="o_setting_right_pane">
-                                            <label for="module_openeducat_fees_parent_bridge" string="Fees Access for Parents"/>
+                                            <label for="module_openeducat_fees_parent_bridge"
+                                                   string="Fees Access for Parents"/>
                                             <a href="https://doc.openeducat.org/openeducat/fees-openeducat.html?highlight=fees#fees-on-duration"
                                                title="Documentation" class="o_doc_link" target="_blank"/>
                                             <div class="text-muted">
-                                               This module allows parent to access fees details of their children.
+                                                This module allows parent to access fees details of their children.
                                             </div>
                                         </div>
                                     </div>
@@ -697,7 +702,8 @@
                                             <a href="https://doc.openeducat.org/applications/digital-library/category.html#how-to-create-category"
                                                title="Documentation" class="o_doc_link" target="_blank"/>
                                             <div class="text-muted">
-                                                This Module Adds The Feature Of Digital Library To Read Books In OpenEduCat.
+                                                This Module Adds The Feature Of Digital Library To Read Books In
+                                                OpenEduCat.
                                             </div>
                                         </div>
                                     </div>
@@ -777,7 +783,8 @@
                                         <div class="o_setting_right_pane">
                                             <label for="module_openeducat_parent_enterprise"/>
                                             <div class="text-muted">
-                                                Give a better transparency to a parent about their child’s academic activities and achievements.
+                                                Give a better transparency to a parent about their child’s academic
+                                                activities and achievements.
                                             </div>
                                         </div>
                                     </div>
@@ -840,7 +847,8 @@
                                                 <a href="https://doc.openeducat.org/applications/quiz/quiz.html#anti-cheating"
                                                    title="Documentation" class="o_doc_link" target="_blank"/>
                                                 <div class="text-muted">
-                                                    With the growing use of online learning and giving examinations over the online mode.
+                                                    With the growing use of online learning and giving examinations over
+                                                    the online mode.
                                                 </div>
                                             </div>
                                         </div>
@@ -851,7 +859,8 @@
                                             <div class="o_setting_right_pane">
                                                 <label for="module_openeducat_quiz_drag_into_text"/>
                                                 <div class="text-muted">
-                                                    Provides facility to conduct online exam platform with question type Drag Into Text.
+                                                    Provides facility to conduct online exam platform with question type
+                                                    Drag Into Text.
                                                 </div>
                                             </div>
                                         </div>
@@ -862,7 +871,8 @@
                                             <div class="o_setting_right_pane">
                                                 <label for="module_openeducat_quiz_match_following"/>
                                                 <div class="text-muted">
-                                                    Provides facility to conduct online exam platform with question type Match Following
+                                                    Provides facility to conduct online exam platform with question type
+                                                    Match Following
                                                 </div>
                                             </div>
                                         </div>
@@ -884,7 +894,8 @@
                                             <div class="o_setting_right_pane">
                                                 <label for="module_openeducat_quiz_multiple_choice"/>
                                                 <div class="text-muted">
-                                                   Provides facility to conduct online exam platform with question type Multiple Choice
+                                                    Provides facility to conduct online exam platform with question type
+                                                    Multiple Choice
                                                 </div>
                                             </div>
                                         </div>
@@ -895,7 +906,8 @@
                                             <div class="o_setting_right_pane">
                                                 <label for="module_openeducat_quiz_numeric"/>
                                                 <div class="text-muted">
-                                                    Provides facility to conduct online exam platform with question type Numeric.
+                                                    Provides facility to conduct online exam platform with question type
+                                                    Numeric.
                                                 </div>
                                             </div>
                                         </div>
@@ -906,7 +918,8 @@
                                             <div class="o_setting_right_pane">
                                                 <label for="module_openeducat_quiz_sort_paragraphs"/>
                                                 <div class="text-muted">
-                                                    Provides facility to conduct online exam platform with question type Sort Paragraphs.
+                                                    Provides facility to conduct online exam platform with question type
+                                                    Sort Paragraphs.
                                                 </div>
                                             </div>
                                         </div>
@@ -990,7 +1003,8 @@
                                         <div class="o_setting_right_pane">
                                             <label for="module_openeducat_timetable_enterprise"/>
                                             <div class="text-muted">
-                                                Schedule session, inform students and faculties all with just a few clicks and one single screen.
+                                                Schedule session, inform students and faculties all with just a few
+                                                clicks and one single screen.
                                             </div>
                                         </div>
                                     </div>
@@ -1054,7 +1068,8 @@
                                                     <a href="https://doc.openeducat.org/applications/lms/lms-blog.html#blog"
                                                        title="Documentation" class="o_doc_link" target="_blank"/>
                                                     <div class="text-muted">
-                                                        Deliver and share knowledge with everyone by creating well-informed and designed blogs by students or faculties.
+                                                        Deliver and share knowledge with everyone by creating
+                                                        well-informed and designed blogs by students or faculties.
                                                     </div>
                                                 </div>
                                             </div>
@@ -1067,7 +1082,8 @@
                                                     <a href="https://doc.openeducat.org/applications/lms/lms-forum.html#forum"
                                                        title="Documentation" class="o_doc_link" target="_blank"/>
                                                     <div class="text-muted">
-                                                        This module adds the feature of forum in learning management system to OpenEduCat.
+                                                        This module adds the feature of forum in learning management
+                                                        system to OpenEduCat.
                                                     </div>
                                                 </div>
                                             </div>
@@ -1080,7 +1096,8 @@
                                                     <a href="https://doc.openeducat.org/applications/lms/lms-gamification.html#gamification"
                                                        title="Documentation" class="o_doc_link" target="_blank"/>
                                                     <div class="text-muted">
-                                                        This module adds the feature of gamification in learning management system to OpenEduCat.
+                                                        This module adds the feature of gamification in learning
+                                                        management system to OpenEduCat.
                                                     </div>
                                                 </div>
                                             </div>
@@ -1106,7 +1123,8 @@
                                                     <a href="https://doc.openeducat.org/applications/lms/lms-course-sale.html#course-sale"
                                                        title="Documentation" class="o_doc_link" target="_blank"/>
                                                     <div class="text-muted">
-                                                        This module adds the feature in OpenEduCat LMS to sell courses online.
+                                                        This module adds the feature in OpenEduCat LMS to sell courses
+                                                        online.
                                                     </div>
                                                 </div>
                                             </div>
@@ -1119,7 +1137,8 @@
                                                     <a href="https://doc.openeducat.org/applications/lms/lms-survey.html#survey"
                                                        title="Documentation" class="o_doc_link" target="_blank"/>
                                                     <div class="text-muted">
-                                                        This module adds the feature of survey in learning management system to OpenEduCat.
+                                                        This module adds the feature of survey in learning management
+                                                        system to OpenEduCat.
                                                     </div>
                                                 </div>
                                             </div>
@@ -1141,7 +1160,8 @@
                                                 <div class="o_setting_right_pane">
                                                     <label for="module_openeducat_lms_interactive_video"/>
                                                     <div class="text-muted">
-                                                        Provides facility to conduct online LMS platform Interactive video.
+                                                        Provides facility to conduct online LMS platform Interactive
+                                                        video.
                                                     </div>
                                                 </div>
                                             </div>
@@ -1152,7 +1172,8 @@
                                                 <div class="o_setting_right_pane">
                                                     <label for="module_openeducat_lms_drag_into_text"/>
                                                     <div class="text-muted">
-                                                        Lms Drag Into TextProvides facility to conduct online exam platform with question type Drag Into Text
+                                                        Lms Drag Into TextProvides facility to conduct online exam
+                                                        platform with question type Drag Into Text
                                                     </div>
                                                 </div>
                                             </div>
@@ -1163,7 +1184,8 @@
                                                 <div class="o_setting_right_pane">
                                                     <label for="module_openeducat_lms_match_following"/>
                                                     <div class="text-muted">
-                                                        Provides facility to conduct online exam platform with question type Match Following
+                                                        Provides facility to conduct online exam platform with question
+                                                        type Match Following
                                                     </div>
                                                 </div>
                                             </div>
@@ -1174,7 +1196,8 @@
                                                 <div class="o_setting_right_pane">
                                                     <label for="module_openeducat_lms_match_images"/>
                                                     <div class="text-muted">
-                                                        Provides facility to conduct online exam platform with question type Match Images
+                                                        Provides facility to conduct online exam platform with question
+                                                        type Match Images
                                                     </div>
                                                 </div>
                                             </div>
@@ -1185,7 +1208,8 @@
                                                 <div class="o_setting_right_pane">
                                                     <label for="module_openeducat_lms_multiple_choice"/>
                                                     <div class="text-muted">
-                                                        Provides facility to conduct online exam platform with question type Multiple Choice
+                                                        Provides facility to conduct online exam platform with question
+                                                        type Multiple Choice
                                                     </div>
                                                 </div>
                                             </div>
@@ -1196,7 +1220,8 @@
                                                 <div class="o_setting_right_pane">
                                                     <label for="module_openeducat_lms_numeric"/>
                                                     <div class="text-muted">
-                                                        Provides facility to conduct online exam platform with question type Numeric
+                                                        Provides facility to conduct online exam platform with question
+                                                        type Numeric
                                                     </div>
                                                 </div>
                                             </div>
@@ -1207,7 +1232,8 @@
                                                 <div class="o_setting_right_pane">
                                                     <label for="module_openeducat_lms_sort_paragraphs"/>
                                                     <div class="text-muted">
-                                                        Provides facility to conduct online exam platform with question type Sort Paragraphs.
+                                                        Provides facility to conduct online exam platform with question
+                                                        type Sort Paragraphs.
                                                     </div>
                                                 </div>
                                             </div>
@@ -1258,7 +1284,8 @@
                                 <a href="https://doc.openeducat.org/applications/google-meet/google-meet-configure.html#how-to-configure-google-meet"
                                    title="Documentation" class="o_doc_link" target="_blank"/>
                                 <div class="text-muted">
-                                    Jitsi is a set of open-source projects that allows you to easily build and deploy secure videoconferencing solutions.
+                                    Jitsi is a set of open-source projects that allows you to easily build and deploy
+                                    secure videoconferencing solutions.
                                 </div>
                             </div>
                         </div>
@@ -1272,7 +1299,8 @@
                                 <a href="https://doc.openeducat.org/applications/skype-meet/skype-meet-configure.html#skype-meet-integration-in-openeducat"
                                    title="Documentation" class="o_doc_link" target="_blank"/>
                                 <div class="text-muted">
-                                    Skype Meet lets you create online meetings with no sign-ups or downloads required, simply generate your unique link and share it with all participants.
+                                    Skype Meet lets you create online meetings with no sign-ups or downloads required,
+                                    simply generate your unique link and share it with all participants.
                                 </div>
                             </div>
                         </div>
@@ -1286,7 +1314,8 @@
                                 <a href="https://doc.openeducat.org/applications/microsoft-teams/microsoft-teams-configure.html#how-to-configure-microsoft-teams"
                                    title="Documentation" class="o_doc_link" target="_blank"/>
                                 <div class="text-muted">
-                                    Microsoft Teams allows you to stay connected and organized with Chat, Meet, Call and Collaborate.
+                                    Microsoft Teams allows you to stay connected and organized with Chat, Meet, Call and
+                                    Collaborate.
                                 </div>
                             </div>
                         </div>
@@ -1300,7 +1329,8 @@
                                 <a href="https://doc.openeducat.org/applications/Zoom/zoom-configure.html#how-to-configure-zoom"
                                    title="Documentation" class="o_doc_link" target="_blank"/>
                                 <div class="text-muted">
-                                    Offer HD audio and video-enabled live classes with up to 100 participants at the same time at the most affordable cost.
+                                    Offer HD audio and video-enabled live classes with up to 100 participants at the
+                                    same time at the most affordable cost.
                                 </div>
                             </div>
                         </div>

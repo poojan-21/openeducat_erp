@@ -1,4 +1,3 @@
-# -*- coding: utf-8 -*-
 ###############################################################################
 #
 #    OpenEduCat Inc
@@ -19,8 +18,7 @@
 #
 ###############################################################################
 
-from odoo import models, fields, api, _
-from odoo import exceptions
+from odoo import _, api, exceptions, fields, models
 
 
 class OpParent(models.Model):

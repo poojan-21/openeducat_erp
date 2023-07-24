@@ -1,4 +1,3 @@
-# -*- coding: utf-8 -*-
 # Part of OpenEduCat. See LICENSE file for full copyright & licensing details.
 
 ##############################################################################
@@ -8,8 +7,9 @@
 #
 ##############################################################################
 
-from odoo import models, fields
 from datetime import timedelta
+
+from odoo import fields, models
 
 
 class OpAcademicYear(models.Model):
@@ -99,11 +99,11 @@ class OpAcademicYear(models.Model):
                             delta = sub_to_d - sub_from_d
                             result = []
                             day = (delta.days + 1) / 2
-                            vals = {'name': 'Quarter' + ' ' + str(num+1),
+                            vals = {'name': 'Quarter' + ' ' + str(num + 1),
                                     'from_date': sub_from_d,
                                     'to_date': (sub_from_d + timedelta(days=day))}
                             result.append(vals)
-                            vals = {'name': 'Quarter' + ' ' + str(num+2),
+                            vals = {'name': 'Quarter' + ' ' + str(num + 2),
                                     'from_date': (sub_from_d + timedelta(
                                         days=day + 1)),
                                     'to_date': sub_to_d}
@@ -151,7 +151,7 @@ class OpAcademicYear(models.Model):
                             result = []
 
                             day = (delta.days + 1) / 2
-                            vals = {'name': 'Quarter' + ' ' + str(num+1),
+                            vals = {'name': 'Quarter' + ' ' + str(num + 1),
                                     'from_date': sub_from_d,
                                     'to_date': (sub_from_d + timedelta(days=day))}
                             result.append(vals)

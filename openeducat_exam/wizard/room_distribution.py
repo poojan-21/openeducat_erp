@@ -1,4 +1,3 @@
-# -*- coding: utf-8 -*-
 ###############################################################################
 #
 #    OpenEduCat Inc
@@ -19,7 +18,7 @@
 #
 ###############################################################################
 
-from odoo import models, api, fields, exceptions, _
+from odoo import _, api, exceptions, fields, models
 
 
 class OpRoomDistribution(models.TransientModel):
@@ -100,7 +99,7 @@ class OpRoomDistribution(models.TransientModel):
                       of student"))
             student_ids = exam.student_ids.ids
             for room in exam.room_ids:
-                for i in range(room.capacity):
+                for i in range(room.capacity): # noqa
                     if not student_ids:
                         continue
                     attendance.create({

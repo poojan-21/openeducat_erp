@@ -1,4 +1,3 @@
-# -*- coding: utf-8 -*-
 ###############################################################################
 #
 #    OpenEduCat Inc
@@ -67,11 +66,8 @@
         'demo/res_partner_demo.xml',
         'demo/res_users_demo.xml',
         'demo/subject_demo.xml',
-        'demo/subject_demo2.xml',
         'demo/course_demo.xml',
-        'demo/course_demo2.xml',
         'demo/batch_demo.xml',
-        'demo/batch_demo2.xml',
         'demo/student_demo.xml',
         'demo/student_course_demo.xml',
         'demo/faculty_demo.xml',

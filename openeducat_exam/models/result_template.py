@@ -1,4 +1,3 @@
-# -*- coding: utf-8 -*-
 ###############################################################################
 #
 #    OpenEduCat Inc
@@ -19,7 +18,7 @@
 #
 ###############################################################################
 
-from odoo import models, fields, api, _
+from odoo import _, api, fields, models
 from odoo.exceptions import ValidationError
 
 
@@ -64,8 +63,8 @@ class OpResultTemplate(models.Model):
                     if grade != sub_grade:
                         if (sub_grade.min_per <= grade.min_per and
                             sub_grade.max_per >= grade.min_per) or \
-                                (sub_grade.min_per <= grade.max_per and
-                                 sub_grade.max_per >= grade.max_per):
+                            (sub_grade.min_per <= grade.max_per and
+                             sub_grade.max_per >= grade.max_per):
                             count += 1
             if count > 0:
                 raise ValidationError(
